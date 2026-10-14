@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fake SIM</string>
+    <string name="sim">SIM</string>
+    <string name="signal">Signal</string>
+    <string name="enable">Включить подделку</string>
+    <string name="disable">Выключить</string>
+    <string name="info">Показывает значок SIM и полную сеть поверх экрана (в т.ч. на локскрине). Нажми на плашку сверху или кнопку «Выключить», чтобы вернуть всё как было.</string>
+    <string name="enabled">Включено</string>
+    <string name="disabled">Выключено</string>
+    <string name="need_overlay">Разрешите «Поверх других окон» и нажмите снова</string>
+    <string name="channel_name">Fake SIM</string>
+    <string name="notif_title">Fake SIM активен</string>
+    <string name="notif_text">Нажмите, чтобы открыть приложение</string>
+</resources>
